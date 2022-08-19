@@ -32,7 +32,7 @@ class AddTodoProvider with ChangeNotifier {
 
       myShowToast(
         msg: "Todo Created",
-        bgColor: Colors.red,
+        bgColor: Colors.green,
       );
       resetData();
       showConfettiAnimation();

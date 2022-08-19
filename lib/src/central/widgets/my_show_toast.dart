@@ -9,5 +9,5 @@ myShowToast({required String msg, Color bgColor = Colors.black}) {
       timeInSecForIosWeb: 1,
       backgroundColor: bgColor,
       textColor: Colors.white,
-      fontSize: 2.0);
+      fontSize: 16.0);
 }
